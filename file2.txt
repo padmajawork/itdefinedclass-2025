@@ -1,1 +1,2 @@
 New file created in GIT GUI
+2nd line added from GIT GUI
