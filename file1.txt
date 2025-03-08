@@ -4,3 +4,4 @@ line added from GIT GUI
 3rd line added from CLI
 new line added
 new line added gui
+ne line added now
