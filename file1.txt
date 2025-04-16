@@ -5,3 +5,4 @@ line added from GIT GUI
 new line added
 new line added gui
 lin1
+line2
